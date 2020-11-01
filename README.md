@@ -97,3 +97,7 @@ setUserAnswer(choice: ChoiceModel) of your choice to pre select a choice
 
 ### Links ###
 * Link to original repo: https://github.com/arivista-digital/AD_Android_MCQ_Library
+
+### Contribute freely!
+I'm pretty liberal with accepting pull requests and will merge if it adds any good functionality. You can also post issues and enhancement requests.
+Happy coding!
