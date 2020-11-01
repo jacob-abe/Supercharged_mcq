@@ -1,0 +1,3 @@
+include ':superchargedmcq'
+include ':app'
+rootProject.name = "Supercharged MCQ Generator"

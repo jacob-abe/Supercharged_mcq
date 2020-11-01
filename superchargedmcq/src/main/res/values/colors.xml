@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E06F71</color>
+    <color name="colorPrimaryDark">#E04E86</color>
+    <color name="colorAccent">#E06F71</color>
+    <color name="card_back">#FFFFFF</color>
+    <color name="opaque_orange">#FF9C38</color>
+    <color name="chip_unselected_gray">#F8F8F8</color>
+    <color name="black">#000000</color>
+    <color name="color_blue">#6CACFF</color>
+    <color name="card_background_blue">#1A66CB</color>
+    <color name="color1">#424549</color>
+    <color name="green">#11F692</color>
+    <color name="color3">#796e25</color>
+    <color name="color4">#59717c</color>
+    <color name="grey">#C0C0C0</color>
+    <color name="disabledBtnBg">#999999</color>
+    <color name="white">#FFFFFF</color>
+    <color name="app_primary">#1976D2</color>
+    <color name="app_primary_dark">#1565C0</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="lightGray">#F2F2F2</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="light_blue">#add8e6</color>
+    <color name="sinch_purple">#ff63029d</color>
+    <color name="off_white">#fffafafa</color>
+    <color name="greyish">#fff2f1f2</color>
+    <color name="rewards_card">#2A3495</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
