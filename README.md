@@ -13,7 +13,7 @@ In your project gradle, add
 	}
   In app's gradle file add
   dependencies {
-	        implementation 'com.github.jacob-abe:supercharged_mcq:Tag'
+	        implementation 'com.github.jacob-abe:supercharged_mcq:$latest_version'
 	}
 ```
 ```
